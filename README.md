@@ -1,10 +1,11 @@
 # GitHub Tutorial
 
-_by <your-name-here>_
+_by Alfredo Gutierrez_
 
 ---
 ## Git vs. GitHub
 
+The differece between _git_ and **github** is that in _git_ you ac
 
 
 ---
