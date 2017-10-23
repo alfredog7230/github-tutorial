@@ -23,9 +23,8 @@ To set you up you will have to follow these directions:
 9. Before you enter your workspace click on the gear icon on the top right of the page.
 10. When you are there click the SSH keys.
 11. After that go to github and copy the _2nd_ SSH key from github(should start with ssh-rsa).
-12. Then paste to cloud9.
-13. Enter your cloud9 workspace and where it says bash on the bottom of the screen type `ssh -T git@github.com`
-14. If you did all these steps correctly then ```Hi <your username>! You've successfully authenticated, but GitHub does not provide shell access._``` should appear.
+12. Enter your cloud9 workspace and where it says bash on the bottom of the screen type `ssh -T git@github.com`
+13. If you did all these steps correctly then ```Hi <your username>! You've successfully authenticated, but GitHub does not provide shell access._``` should appear.
  
 ---
 ## Repository Setup
@@ -49,8 +48,6 @@ Ta-da you have copleted the Repository Setup!
 
 ---
 ## Workflow & Commands   
-   
-   
    
 In this part of the tutorial I am going to show you some key commands in git and the workflow.   
 If you couldn't do the repository setup because you didn't know som code here is some code that will help you with the repo setup.   
