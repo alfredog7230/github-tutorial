@@ -49,6 +49,7 @@ Ta-da you have copleted the Repository Setup!
 
 ---
 ## Workflow & Commands   
+---   
 
 In this part of the tutorial I am going to show you some key commands in git and the workflow.   
 If you couldn't do the repository setup because you didn't know som code here is some code that will help you with the repo setup.   
@@ -60,7 +61,7 @@ These next few commands are for more advanced coders.
 `git add` is used to add the changes you did to a file.
 `git commit -m ""`is used after `git add` and is used yo write a "note" of what you currently did to the file. You would write the "note" in the quotation marks.   
 `git push` is used to push everything that you changed to the repository that you just changed.
----
+
 ## Rolling Back Changes
 
 Rolling Back Changes are very usedful when creating something in yuor file.
