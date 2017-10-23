@@ -49,7 +49,9 @@ Ta-da you have copleted the Repository Setup!
 
 ---
 ## Workflow & Commands   
-
+   
+   
+   
 In this part of the tutorial I am going to show you some key commands in git and the workflow.   
 If you couldn't do the repository setup because you didn't know som code here is some code that will help you with the repo setup.   
 `mkdir ` is used to make a directory.  
