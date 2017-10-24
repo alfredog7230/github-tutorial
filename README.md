@@ -51,14 +51,14 @@ Ta-da you have copleted the Repository Setup!
    
 In this part of the tutorial I am going to show you some key commands in git and the workflow.   
 If you couldn't do the repository setup because you didn't know som code here is some code that will help you with the repo setup.   
-`mkdir ` is used to make a directory.  
-`cd` is used to move from file to file all you have to do is add the file you want to go to after the cd.   
-`git` should go after every command you are writing except for a few.  
+* `mkdir ` is used to make a directory.  
+* `cd` is used to move from file to file all you have to do is add the file you want to go to after the cd.   
+* `git` should go after every command you are writing except for a few.  
 These next few commands are for more advanced coders.   
-`git touch` is used to make a file inside a directory.
-`git add` is used to add the changes you did to a file.
-`git commit -m ""`is used after `git add` and is used yo write a "note" of what you currently did to the file. You would write the "note" in the quotation marks.   
-`git push` is used to push everything that you changed to the repository that you just changed.   
+* `git touch` is used to make a file inside a directory.
+* `git add` is used to add the changes you did to a file.
+* `git commit -m ""`is used after `git add` and is used yo write a "note" of what you currently did to the file. You would write the "note" in the quotation marks.   
+* `git push` is used to push everything that you changed to the repository that you just changed.   
 ---
 ## Rolling Back Changes
 
