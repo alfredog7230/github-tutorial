@@ -62,7 +62,7 @@ These next few commands are for more advanced coders.
 ---
 ## Rolling Back Changes
 
-Rolling Back Changes are very usedful when creating something in yuor file.
+Rolling Back Changes are very usedful when creating something in your file.
 * `git checkout -- filename`
    * What this does is that whaever you had on a file before you edited it, the code will file will change back to the way you had it.
 * `git reset HEAD filename`
