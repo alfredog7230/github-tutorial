@@ -30,17 +30,17 @@ To set you up you will have to follow these directions:
 ## Repository Setup
 
 The way to set up a repository (repo for short) is simpler that the initial setup, just follow these next few steps to setup a repo.   
-First off you need to open your [cloud9](c9.io) and your [github](github.com) and log in to both.   
-Once you are logged on, go to your github account, press the "+" on your top right corner of your screen, and click "new repository".   
-After that name the repo and create the new repository.   
-Once you clicked "create repository", look for "quick setup" and make sure **SSH** is highlighted next to the url _not_ **_HTTPS_**.   
-Then look for the subtitle that says "…or push an existing repository from the command line" and press the clipboard button that copies the command line that looks like this:  
+1. First off you need to open your [cloud9](c9.io) and your [github](github.com) and log in to both.     
+2. Once you are logged on, go to your github account, press the "+" on your top right corner of your screen, and click "new repository".       
+3. After that name the repo and create the new repository.     
+4. Once you clicked "create repository", look for "quick setup" and make sure **SSH** is highlighted next to the url _not_ **_HTTPS_**.     
+5. Then look for the subtitle that says "…or push an existing repository from the command line" and press the clipboard button that copies the command line that looks like this:  
 ```bash
 git remote add origin https://github.com/alfredog7230/practice-repo.git
 git push -u origin master
 ```   
-After that, go to your cloud9 and go to your bash and create a new directory and name it **_EXACTLY_** how you named the repo.  
-Then move into that directory and in bash paste what you copied into bash paste where it says:   
+6. After that, go to your cloud9 and go to your bash and create a new directory and name it **_EXACTLY_** how you named the repo.    
+7. Then move into that directory and in bash paste what you copied into bash paste where it says:   
 ```bash
 yourusername:~/workspace/yourrepo $ 
 ```
